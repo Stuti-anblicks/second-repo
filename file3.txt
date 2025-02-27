@@ -1,1 +1,2 @@
-hello, this is file 3.
+hello, this is file 3
+some changes made in file 3.
